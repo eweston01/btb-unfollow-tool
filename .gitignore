@@ -1,0 +1,18 @@
+# Your personal unfollow list (keep private — contains usernames)
+unfollow-list.json
+
+# Progress and log files (personal to your run)
+ig-unfollow-progress.json
+ig-unfollow-campaign.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
